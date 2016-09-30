@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeForYou</string>
+    <string name ="direction"></string>
+    <string name="gps_off">GPS off</string>
+    <string name="ble_off">Bluetooth off</string>
+    <string name="moblie_off">mobile data off</string>
+</resources>
